@@ -45,8 +45,8 @@ My newest hobby is **experimenting with AI**: local LLMs, RAG, and AI agents.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Kunal-Nevrekar](https://www.linkedin.com/in/kunal-nevrekar/)
+- 📧 Email: kunalnevrekar2020@gmail.com
 
 ---
 
