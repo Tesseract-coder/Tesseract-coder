@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Tesseract-coder
-- 👀 I’m interested in Learning new and latest Technologies and tools
-- 🌱 I’m currently learning React
+👋 Senior SDET who loves learning new technologies and building things outside work.
 
-<!---
-Tesseract-coder/Tesseract-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ What I’ve built
+
+LevelUp: a health & fitness tracker app
+Portfolio Analyzer: insights for stocks & mutual funds
+JARVIS (in progress): a free, locally-run LLM agent with RAG
+
+🧠 Experimenting with AI is my newest hobby, and I’m learning how agents work by building one.
