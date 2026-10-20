@@ -11,9 +11,9 @@ My newest hobby is **experimenting with AI**: local LLMs, RAG, and AI agents.
 
 | Project | Description | Status |
 |---|---|---|
-| 💪 **[LevelUp](https://github.com/USERNAME/levelup)** | Health & fitness tracker app | ✅ Built |
-| 📈 **[Portfolio Analyzer](https://github.com/USERNAME/portfolio-analyzer)** | Insights and analysis for stocks & mutual funds | ✅ Built |
-| 🤖 **[JARVIS](https://github.com/USERNAME/jarvis-rag)** | Free, locally-run LLM agent with RAG, built to plug into my other apps | 🚧 In progress |
+| 💪 **[LevelUp](https://github.com/Tesseract-coder/levelup)** | Health & fitness tracker app | ✅ Built |
+| 📈 **[Portfolio Analyzer](https://github.com/Tesseract-coder/portfolio-analyzer)** | Insights and analysis for stocks & mutual funds | ✅ Built |
+| 🤖 **[JARVIS](https://github.com/Tesseract-coder/jarvis-rag)** | Free, locally-run LLM agent with RAG, built to plug into my other apps | 🚧 In progress |
 
 ---
 
@@ -37,8 +37,8 @@ My newest hobby is **experimenting with AI**: local LLMs, RAG, and AI agents.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tesseract-coder&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tesseract-coder&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
 </p>
 
 ---
