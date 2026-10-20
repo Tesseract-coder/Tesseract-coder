@@ -12,7 +12,7 @@ My newest hobby is **experimenting with AI**: local LLMs, RAG, and AI agents.
 | Project | Description | Status |
 |---|---|---|
 | 💪 **[LevelUp](https://github.com/Tesseract-coder/levelup)** | Health & fitness tracker app | ✅ Built |
-| 📈 **[Portfolio Analyzer](https://github.com/Tesseract-coder/portfolio-analyzer)** | Insights and analysis for stocks & mutual funds | ✅ Built |
+| 📈 **[Portfolio Analyzer](https://github.com/Tesseract-coder/wealth-mgmt)** | Insights and analysis for stocks & mutual funds | ✅ Built |
 | 🤖 **[JARVIS](https://github.com/Tesseract-coder/jarvis-rag)** | Free, locally-run LLM agent with RAG, built to plug into my other apps | 🚧 In progress |
 
 ---
